@@ -1,5 +1,6 @@
 from collections import OrderedDict
-from attr import attrs, attrib, fields_dict
+
+from attr import attrs, fields_dict
 
 
 def valentide(cls):
